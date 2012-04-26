@@ -229,8 +229,6 @@
 			<key>Layout</key>
 			<array>
 				<dict>
-					<key>BecomeActive</key>
-					<true/>
 					<key>ContentConfiguration</key>
 					<dict>
 						<key>PBXBottomSmartGroupGIDs</key>
@@ -306,6 +304,8 @@
 					<key>Dock</key>
 					<array>
 						<dict>
+							<key>BecomeActive</key>
+							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
@@ -323,13 +323,13 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>A5A1424B1548B93F00C8FC61</string>
+										<string>A57D81C4154976C1002C2981</string>
 										<key>history</key>
 										<array>
 											<string>A5ACD48A154464990052F704</string>
 											<string>A5ACD48C154464990052F704</string>
 											<string>A579636915466B9A00D0135E</string>
-											<string>A58EEBB01548B696002ECEED</string>
+											<string>A5A1424B1548B93F00C8FC61</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -341,14 +341,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 0}, {965, 453}}</string>
+								<string>{{0, 0}, {965, 446}}</string>
 								<key>RubberWindowFrame</key>
 								<string>177 159 1173 719 0 0 1440 878 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
 							<key>Proportion</key>
-							<string>453pt</string>
+							<string>446pt</string>
 						</dict>
 						<dict>
 							<key>ContentConfiguration</key>
@@ -361,14 +361,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 458}, {965, 220}}</string>
+								<string>{{0, 451}, {965, 227}}</string>
 								<key>RubberWindowFrame</key>
 								<string>177 159 1173 719 0 0 1440 878 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
 							<key>Proportion</key>
-							<string>220pt</string>
+							<string>227pt</string>
 						</dict>
 					</array>
 					<key>Proportion</key>
@@ -387,9 +387,9 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>A5A1424C1548B93F00C8FC61</string>
+				<string>A57D81B315497662002C2981</string>
 				<string>1CE0B1FE06471DED0097A5F4</string>
-				<string>A5A1424D1548B93F00C8FC61</string>
+				<string>A57D81B415497662002C2981</string>
 				<string>1CE0B20306471E060097A5F4</string>
 				<string>1CE0B20506471E060097A5F4</string>
 			</array>
@@ -527,6 +527,9 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
+		<string>A57D81BE15497662002C2981</string>
+		<string>A57D81BF15497662002C2981</string>
+		<string>1C78EAAD065D492600B07095</string>
 		<string>1CD10A99069EF8BA00B06720</string>
 		<string>A5ACD46215445E4F0052F704</string>
 		<string>/Users/lucasdm/openFrameworks/apps/devApps/tallerOF_04/tallerOF_04.xcodeproj</string>
@@ -609,7 +612,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>A5ACD46215445E4F0052F704</string>
-				<string>A5A1424E1548B93F00C8FC61</string>
+				<string>A57D81B515497662002C2981</string>
 				<string>1CD0528F0623707200166675</string>
 				<string>XCMainBuildResultsModuleGUID</string>
 			</array>
@@ -731,13 +734,13 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>1CD10A99069EF8BA00B06720</string>
-				<string>A5A1424F1548B93F00C8FC61</string>
+				<string>A57D81B615497662002C2981</string>
 				<string>1C162984064C10D400B95A72</string>
-				<string>A5A142501548B93F00C8FC61</string>
-				<string>A5A142511548B93F00C8FC61</string>
-				<string>A5A142521548B93F00C8FC61</string>
-				<string>A5A142531548B93F00C8FC61</string>
-				<string>A5A142541548B93F00C8FC61</string>
+				<string>A57D81B715497662002C2981</string>
+				<string>A57D81B815497662002C2981</string>
+				<string>A57D81B915497662002C2981</string>
+				<string>A57D81BA15497662002C2981</string>
+				<string>A57D81BB15497662002C2981</string>
 			</array>
 			<key>ToolbarConfiguration</key>
 			<string>xcode.toolbar.config.debugV3</string>
@@ -899,7 +902,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>1C78EAAD065D492600B07095</string>
-				<string>A58EEBBA1548B696002ECEED</string>
+				<string>A57D81BC15497662002C2981</string>
 				<string>1C78EAAC065D492600B07095</string>
 			</array>
 			<key>ToolbarConfiguration</key>

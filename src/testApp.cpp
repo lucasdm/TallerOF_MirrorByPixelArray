@@ -20,7 +20,7 @@ void testApp::update(){
 		
 		// y * 640 * 3 + x * 3
 		
-		for(int i = 0; i < camara.getWidth()/2; i++){
+		for(int i = 0; i < camara.getWidth(); i++){
 			
 			for(int j = 0; j < camara.getHeight();j++){
 				
